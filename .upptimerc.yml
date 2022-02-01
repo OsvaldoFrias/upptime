@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: ISS Appointments
-    url: http://training.issivs.com
+    url: https://training.issivs.com/signin
 assignees:
   - OsvaldoFrias
 status-website:
