@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 82,
-    "timeWeek": 130,
-    "timeMonth": 102,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 325,
+    "timeWeek": 185,
+    "timeMonth": 118,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   },
   {
     "name": "ISS Appointments",
