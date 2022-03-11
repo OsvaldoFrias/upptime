@@ -24,7 +24,7 @@
     "url": "https://training.issivs.com/signin",
     "icon": "https://training.issivs.com/public/img/favicon.png",
     "slug": "iss-appointments",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 171,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-02-01": 23
     }
   }
